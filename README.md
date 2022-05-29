@@ -12,7 +12,7 @@ Sanat sijaitsevat tiedostossa 'sanakirja.txt', jossa ne ovat erotettu toisistaan
 The program asks a user to enter a word in Finnish or English.
 The corresponding word will be printed in another language like in example above.
 
-If the word is not included in the dictionary, an error message will be printed: "Sanaa haettavasana ei loytynyt sanakirjasta"
+If the word is not included in the dictionary, an error message will be printed: "Sanaa haettavasana ei loytynyt sanakirjasta".
 The words are stored in the textfile 'sanakirja.txt' which conforms the following structure:
 
 "finnishWord1;englishWord1"
