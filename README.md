@@ -4,7 +4,7 @@ suomi-englanti-suomi sanakirjaohjelma / finnish-english-finnish dictionary progr
 Ohjelmassa käyttäjä syöttää sanan suomeksi tai englanniksi. Ohjelma tulostaa sanan vastineen toisella kielellä muodossa:
 "Sana sana1 englanniksi on word1" <--> "Sana koira englanniksi on dog" tai "Sana word2 suomeksi on sana2" <--> "Sana cat suomeksi on kissa"
 
-Mikäli sanaa ei löydy sanakirjasta, tulostetaan virheilmoitus: "Sanaa haettavasana ei loytynyt sanakirjasta"
+Mikäli sanaa ei löydy sanakirjasta, tulostetaan virheilmoitus: "Sanaa haettavasana ei loytynyt sanakirjasta".
 Sanat sijaitsevat tiedostossa 'sanakirja.txt', jossa ne ovat erotettu toisistaan puolipisteellä: "sana1suomeksi;sana1englanniksi"
 
 ------------------------------------------------------------------------------------------------------------------------
