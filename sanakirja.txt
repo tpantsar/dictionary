@@ -1,0 +1,10 @@
+koira;dog
+kissa;cat
+susi;wolf
+talo;house
+kukka;flower
+lamppu;lamp
+lasi;glass
+kello;clock
+ikkuna;window
+verhot;curtains
